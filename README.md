@@ -1,4 +1,5 @@
-
+[центр_финансовых_решений_сайт_index.html](https://github.com/user-attachments/files/22983150/_._._._index.html)
+<!doctype html>
 <html lang="ru">
 <head>
   <meta charset="utf-8">
