@@ -1,37 +1,4 @@
-[центр_финансовых_решений_сайт_index.html](https://github.com/user-attachments/files/22983150/_._._._index.html)
-<!doctype html>
-<html lang="ru">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Центр Финансовых Решений — кредиты, РКО, страхование</title>
-  <meta name="description" content="Финансовый брокер: кредиты для физлиц и ИП/ООО, РКО, страхование и консультации. Помогаем получить одобрение даже с плохой КИ.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-  <style>
-    :root{
-      --bg:#ffffff;
-      --muted:#6b7280;
-      --accent:#0b63d4;
-      --accent-dark:#084aa0;
-      --card:#f8fbff;
-      --radius:14px;
-      --maxw:1100px;
-      font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-    }
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    body{
-      margin:0;background:var(--bg);color:#0f1724;line-height:1.45;-webkit-font-smoothing:antialiased;
-    }
-    .container{max-width:var(--maxw);margin:0 auto;padding:28px}
-    header{display:flex;align-items:center;justify-content:space-between;padding:18px 0}
-    .brand{display:flex;gap:14px;align-items:center}
-    .logo{width:56px;height:56px;border-radius:10px;background:linear-gradient(180deg,var(--accent),var(--accent-dark));display:flex;align-items:center;justify-content:center;color:white;font-weight:700;font-size:18px}
-    h1{margin:0;font-size:24px}
-    .tag{color:var(--muted);font-size:13px}
-    nav a{margin-left:18px;color:var(--accent);text-decoration:none;font-weight:600}
+
 
     .hero{display:grid;grid-template-columns:1fr 420px;gap:28px;align-items:center;padding:28px 0}
     .hero h2{font-size:32px;margin:0 0 12px}
